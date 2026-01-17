@@ -13,8 +13,8 @@ An intelligent AI-powered customer support system that uses a multi-agent archit
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd swadesh-ai
+git clone https://github.com/zenitsu0509/Swadesh-AI-Multi-AgentCustomer.git
+cd Swadesh-AI-Multi-AgentCustomer
 
 # Install dependencies
 pnpm install
